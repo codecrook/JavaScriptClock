@@ -10,3 +10,5 @@ This Project is completed under #JavaScript30 Challenge course by [Wes Bos](http
 ## How to run
 
 Download or clone the project and run `index.html` in the browser.
+
+-OR- [Click Here](https://codecrook.github.io/JavaScriptClock/) for a live demo.
